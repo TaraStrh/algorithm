@@ -1,0 +1,14 @@
+F:\university\term 7\algorithms\HW2-practical\q5\obj\Debug\net7.0\q5.GeneratedMSBuildEditorConfig.editorconfig
+F:\university\term 7\algorithms\HW2-practical\q5\obj\Debug\net7.0\q5.AssemblyInfoInputs.cache
+F:\university\term 7\algorithms\HW2-practical\q5\obj\Debug\net7.0\q5.AssemblyInfo.cs
+F:\university\term 7\algorithms\HW2-practical\q5\obj\Debug\net7.0\q5.csproj.CoreCompileInputs.cache
+F:\university\term 7\algorithms\HW2-practical\q5\bin\Debug\net7.0\q5.exe
+F:\university\term 7\algorithms\HW2-practical\q5\bin\Debug\net7.0\q5.deps.json
+F:\university\term 7\algorithms\HW2-practical\q5\bin\Debug\net7.0\q5.runtimeconfig.json
+F:\university\term 7\algorithms\HW2-practical\q5\bin\Debug\net7.0\q5.dll
+F:\university\term 7\algorithms\HW2-practical\q5\bin\Debug\net7.0\q5.pdb
+F:\university\term 7\algorithms\HW2-practical\q5\obj\Debug\net7.0\q5.dll
+F:\university\term 7\algorithms\HW2-practical\q5\obj\Debug\net7.0\refint\q5.dll
+F:\university\term 7\algorithms\HW2-practical\q5\obj\Debug\net7.0\q5.pdb
+F:\university\term 7\algorithms\HW2-practical\q5\obj\Debug\net7.0\q5.genruntimeconfig.cache
+F:\university\term 7\algorithms\HW2-practical\q5\obj\Debug\net7.0\ref\q5.dll
